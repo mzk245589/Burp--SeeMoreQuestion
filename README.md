@@ -10,13 +10,13 @@
 
 先打开插件开关
 
-![截图](74dd7d5ee31249e3bc8c506395ba63d4.png)
+![截图](https://github.com/mzk245589/Burp--SeeMoreQuestion/blob/master/Image/74dd7d5ee31249e3bc8c506395ba63d4.png)
 
 再浏览网页即可。
 
-![截图](b620b25e88f1ff608333946d853e6558.png)
+![截图](https://github.com/mzk245589/Burp--SeeMoreQuestion/blob/master/Image/b620b25e88f1ff608333946d853e6558.png)
 
-![截图](47003a7caf734321fb175dd5bf5ece6f.png)
+![截图](https://github.com/mzk245589/Burp--SeeMoreQuestion/blob/master/Image/47003a7caf734321fb175dd5bf5ece6f.png)
 
 目前被动扫描有：
 
